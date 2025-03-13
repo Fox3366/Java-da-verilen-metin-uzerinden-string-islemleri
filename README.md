@@ -1,4 +1,4 @@
-# Java-da-verilen-metin-zerinden-string-i-lemleri
+# Java-da-verilen-metin-uzerinden-string-islemleri
 Yazılım müh. 2.sınıf birinci dönem ödev-2
 
 1. Yeni metin tanımlayınız. Örnek metin:
